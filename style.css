@@ -1,9 +1,9 @@
 :root {
-    --primary-color: #4a148c; /* Deeper Purple */
-    --secondary-color: #7b1fa2; /* Lighter Purple */
-    --accent-color: #f3e5f5; /* Very Light Purple/Lavender */
-    --accent-dark: #e1bee7; /* Slightly Darker Lavender */
-    --background-color: #f9f7fc; /* Off-white with purple tint */
+    --primary-color: #8c1414; /* Deeper Purple */
+    --secondary-color: #a21f1f; /* Lighter Purple */
+    --accent-color: #f5e5e5; /* Very Light Purple/Lavender */
+    --accent-dark: #e7bebe; /* Slightly Darker Lavender */
+    --background-color: #fcf7f7; /* Off-white with purple tint */
     --text-color: #333;
     --heading-color: #212121; /* Darker heading */
     --light-text-color: #f1f1f1; /* For dark backgrounds */
